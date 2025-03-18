@@ -84,7 +84,7 @@ Attention, toutefois, le premier indice d'une liste est 0, on a donc :
 liste = [1, 5, 7]
 print(liste[1])
 ```
-
+.
 ```{code-cell}
 print(liste[0])
 ```
